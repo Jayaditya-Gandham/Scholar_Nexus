@@ -1,5 +1,5 @@
 # Scholar Nexus
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/Jayaditya-Gandham/Scholar_Nexus)
+
 
 Scholar Nexus is a modern, full-stack academic resource hub designed to democratize access to knowledge. It provides a centralized platform for students, faculty, and administrators to discover, share, and discuss academic materials, including research papers, books, and courses.
 
